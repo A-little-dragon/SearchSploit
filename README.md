@@ -32,10 +32,10 @@ searchsploit.py -m [filename] [savepath] 下载漏洞利用程序脚本到指定
 
 ## 程序截图
 https://www.notion.so/a-little-dragon/SearchSploit-ExploitDB-b45738cd36d04991a57627d2b97687dc?pvs=4#823ee5974e9a4544801768710158da01
-![823ee5974e9a4544801768710158da01](https://www.notion.so/a-little-dragon/SearchSploit-ExploitDB-b45738cd36d04991a57627d2b97687dc?pvs=4#823ee5974e9a4544801768710158da01)
+![1](image/Untitled 1.png)
 
-![251b35f0cb2143b7a4abd197627ed5b6](https://www.notion.so/a-little-dragon/SearchSploit-ExploitDB-b45738cd36d04991a57627d2b97687dc?pvs=4#251b35f0cb2143b7a4abd197627ed5b6)
+![2](image/Untitled 2.png)
 
-![cab668e0384b458195a36008ba20bd5a](https://www.notion.so/a-little-dragon/SearchSploit-ExploitDB-b45738cd36d04991a57627d2b97687dc?pvs=4#cab668e0384b458195a36008ba20bd5a)
+![3](image/Untitled 3.png)
 
-![232009e9b52844b6b67f33f901e2c1e6](https://www.notion.so/a-little-dragon/SearchSploit-ExploitDB-b45738cd36d04991a57627d2b97687dc?pvs=4#232009e9b52844b6b67f33f901e2c1e6)
+![4](image/Untitled 4.png)
