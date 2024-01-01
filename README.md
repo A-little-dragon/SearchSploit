@@ -31,11 +31,7 @@ searchsploit.py -m [filename] [savepath] 下载漏洞利用程序脚本到指定
 | 一条’小龍龙 | https://github.com/A-little-dragon | https://space.bilibili.com/645839191 | 主要贡献者 |
 
 ## 程序截图
-https://www.notion.so/a-little-dragon/SearchSploit-ExploitDB-b45738cd36d04991a57627d2b97687dc?pvs=4#823ee5974e9a4544801768710158da01
-![1](image/Untitled 1.png)
-
-![2](image/Untitled 2.png)
-
-![3](image/Untitled 3.png)
-
-![4](image/Untitled 4.png)
+![Untitled 1](https://github.com/A-little-dragon/SearchSploit/assets/87412828/a68e71e8-b468-4b8d-8210-8bb8a70ad76b)
+![Untitled 2](https://github.com/A-little-dragon/SearchSploit/assets/87412828/411dea1d-5526-4425-8421-102cd121f5f1)
+![Untitled 3](https://github.com/A-little-dragon/SearchSploit/assets/87412828/1acdbc3d-0aa6-4d59-9a4a-c10f5e3a761d)
+![Untitled](https://github.com/A-little-dragon/SearchSploit/assets/87412828/757338e9-bca8-4e6a-a8a7-c820d135fe98)
