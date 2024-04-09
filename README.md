@@ -2,7 +2,7 @@
 
 ## 项目介绍
 
-原官方版本只能运行在Linux系统上，因此我将其重构为Python版本，解决了exploitdb在非Linux系统上的运行问题。通过重新编写和优化，我成功地使这个工具可以在Windows、Linux和Mac OS上流畅运行。我希望通过这个项目，更多的安全专业人员和爱好者能够轻松地使用exploitdb的功能，共同推进安全领域的发展。
+原官方版本只能运行在Linux系统上，因此我将其重构为Python版本，解决了exploitdb在非Linux系统上的运行问题。
 
 ## 参数说明
 
@@ -23,12 +23,6 @@ searchsploit.py -m [filename] [savepath] 下载漏洞利用程序脚本到指定
 | python | version > 3.8 |
 | colorama | 0.4.6 |
 | prettytable | 3.9.0 |
-
-## 贡献者
-
-| Author | GitHub | B站 | 身份 |
-| --- | --- | --- | --- |
-| 一条’小龍龙 | https://github.com/A-little-dragon | https://space.bilibili.com/645839191 | 主要贡献者 |
 
 ## 程序截图
 ![Untitled 4](https://github.com/A-little-dragon/SearchSploit/assets/87412828/757338e9-bca8-4e6a-a8a7-c820d135fe98)
